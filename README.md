@@ -51,5 +51,6 @@ Manually screening resumes can be tedious and error-prone. This project harnesse
 1. **Clone this repository:**
 
    ```bash
+   https://github.com/praveenreddy82472/Smart-Resume-Scanner-Azure-AI.git
 
    cd smart-resume-scanner-azure
