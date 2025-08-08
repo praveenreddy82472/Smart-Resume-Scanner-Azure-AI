@@ -1,0 +1,27 @@
+# Environment variables
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit settings
+.streamlit/
+
+# Azure credentials
+*.json
+
+# VSCode settings
+.vscode/
