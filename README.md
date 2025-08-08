@@ -5,7 +5,15 @@
 **Smart Resume Scanner** is an interactive web application built with **Streamlit** that leverages **Azure Cognitive Services** to automate resume parsing and skill matching. It extracts key candidate information from resumes and scores the candidate’s skills against a job description (JD), helping recruiters quickly identify the best matches.
 
 ---
+## 📸 Sample Outputs
 
+Here are some screenshots of the Smart Resume Scanner in action:
+
+![Output 1](https://github.com/praveenreddy82472/Smart-Resume-Scanner-Azure-AI/blob/main/sample_outputs/1.jpg?raw=true)
+![Output 2](https://github.com/praveenreddy82472/Smart-Resume-Scanner-Azure-AI/blob/main/sample_outputs/2.jpg?raw=true)
+![Output 3](https://github.com/praveenreddy82472/Smart-Resume-Scanner-Azure-AI/blob/main/sample_outputs/3.jpg?raw=true)
+
+---
 ## Key Features
 
 - **Resume Upload:** Easily upload PDF or DOCX resumes.
